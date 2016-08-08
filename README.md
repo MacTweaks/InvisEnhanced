@@ -4,7 +4,7 @@
 
 **Notes**
 
-* InvisEnhanced is a modified version of [invisible font](http://www.angelfire.com/pr/pgpf/if.html) that includes more chacters.
+* InvisEnhanced is a modified version of [invisible font](http://www.angelfire.com/pr/pgpf/if.html) that includes more characters.
 
 * InvisEnhanced can be used to hide the text in all title bar windows.
  
